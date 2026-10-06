@@ -1,0 +1,5 @@
+SIL OPEN FONT LICENSE Version 1.1 — 26 February 2007
+
+Copyright 2011 Pablo Impallari and Igino Marini.
+Cabin is licensed under the SIL Open Font License, Version 1.1.
+See the full text at https://scripts.sil.org/OFL
